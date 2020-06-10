@@ -153,6 +153,7 @@ let gameTypes = {
  	holiday: 'holidaysurvivor',
 	holidaysurv: 'holidaysurvivor',
 	hotpotato: ['Hot Potato', 'https://survivor-ps.weebly.com/hot-potato.html', 'This be a real hot potato.', 0],
+        hp: 'hotpotato', 
 	hungergames: ['Hunger Games', 'http://survivor-ps.weebly.com/hunger-games.html', 'Classic but with a twist: No alliances.', 0],
 	hg: 'hungergames',
 	hungergamesanonymous: ['Hunger Games Anonymous', 'http://survivor-ps.weebly.com/hunger-games.html', 'Hunger Games but you don\'t know who is who...', 0],
